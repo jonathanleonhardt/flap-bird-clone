@@ -1,1 +1,7 @@
-# flap-bird-clone
+# furapi birdo 
+
+`npm start`
+
+---
+
+'space' - jump
